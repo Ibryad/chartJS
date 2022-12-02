@@ -1,0 +1,52 @@
+{
+  "date_population": [
+    {
+      "date": "Janvier",
+      "population": 406760
+    },
+    {
+      "date": "Fevrier",
+      "population": 778977
+    },
+    {
+      "date": "Mars",
+      "population": 1207000
+    },
+    {
+      "date": "Avril",
+      "population": 1654000
+    },
+    {
+      "date": "Mai",
+      "population": 2922000
+    },
+    {
+      "date": "Juin",
+      "population": 4130000
+    },
+    {
+      "date": "Juillet",
+      "population": 6140000
+    },
+    {
+      "date": "Août",
+      "population": 8450000
+    },
+    {
+      "date": "Septembre",
+      "population": 8450000
+    },
+    {
+      "date": "Octobre",
+      "population": 8450000
+    },
+    {
+      "date": "Novembre",
+      "population": 8450000
+    },
+    {
+      "date": "Décembre",
+      "population": 8450000
+    }
+  ]
+}
