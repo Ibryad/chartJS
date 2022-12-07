@@ -12,12 +12,12 @@ fetch(dataFromFile)
         const barChart = new Chart(barCanvas, {
             type: "bar", data: {
                 labels: data.date_population.map(element => element.date), datasets: [{
-                    data: data.date_population.map(element => element.population), backgroundColor: ["green","white", "red"]
+                    data: data.date_population.map(element => element.credit), backgroundColor: ["black"]
                 }]
             }, options: {
                 scales: {
                     y: {
-                        suggestedMax: 900
+                        suggestedMax: 10000
                     }
                 }
             }

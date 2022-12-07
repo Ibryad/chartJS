@@ -2,51 +2,51 @@
   "date_population": [
     {
       "date": "Janvier",
-      "population": 406760
+      "credit": 4067
     },
     {
       "date": "Fevrier",
-      "population": 778977
+      "credit": 7789
     },
     {
       "date": "Mars",
-      "population": 1207000
+      "credit": 1207
     },
     {
       "date": "Avril",
-      "population": 1654000
+      "credit": 1654
     },
     {
       "date": "Mai",
-      "population": 2922000
+      "credit": 2922
     },
     {
       "date": "Juin",
-      "population": 4130000
+      "credit": 4130
     },
     {
       "date": "Juillet",
-      "population": 6140000
+      "credit": 6140
     },
     {
       "date": "Août",
-      "population": 8450000
+      "credit": 8450
     },
     {
       "date": "Septembre",
-      "population": 8450000
+      "credit": 4950
     },
     {
       "date": "Octobre",
-      "population": 8450000
+      "credit": 3550
     },
     {
       "date": "Novembre",
-      "population": 8450000
+      "credit": 2950
     },
     {
       "date": "Décembre",
-      "population": 8450000
+      "credit": 9950
     }
   ]
 }
